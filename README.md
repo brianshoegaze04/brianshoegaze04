@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me Brian Gabriel Hurtado Moren</h1>
 <h3 align="center">Soy Soporte Técnico - Full Stack/Frontend Engineer apasionado</h3>
 
-- 💬 Ask me about **Html,Css,Javascript,Python y Java**
+- 💬 Ask me about **Git,Nodejs,Javascript,Html,Css,Java,Mysql y Python*
 
 - 📫 How to reach me **brianhurtado653@gmail.com**
 
