@@ -62,7 +62,6 @@
   <img height="200" src="https://giffiles.alphacoders.com/212/212466.gif"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.facebook.com/brianshoegaze04" target="_blank">
@@ -73,4 +72,3 @@
   </a>
 </div>
 
-###
