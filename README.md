@@ -1,4 +1,4 @@
-<img src="Fondo de portada.png" alt="">
+<img src="" alt="">
 <h1 align="center">Hi 👋, I'm Technical Support-Frontend-Backend-DevOps-Data Science-Data Engineer</h1>
 <h3 align="center">A passionate frontend, backend, data science and data engineer from Peru.</h3>
 
