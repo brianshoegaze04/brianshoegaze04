@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">Social networks:</p>
+<h2 align="left">Social networks</h2>
 
 ###
 
