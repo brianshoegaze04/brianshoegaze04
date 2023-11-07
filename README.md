@@ -13,6 +13,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/brianshoegaze04/brianshoegaze04/output/snake.svg" alt="Snake animation" />
 
 ###
